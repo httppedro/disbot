@@ -1,0 +1,15 @@
+.env
+
+resto.txt
+
+node_modules/
+
+.vscode/
+
+yarn-error.log
+yarn.lock
+
+
+package-lock.json
+
+.eslintrc.json
